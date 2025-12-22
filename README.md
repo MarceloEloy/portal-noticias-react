@@ -4,7 +4,7 @@ Projeto front-end desenvolvido como atividade acadêmica da disciplina **Front-E
 
 O projeto consiste em um **Portal de Notícias** com páginas de Home, Contato e Login. Na Home, é possível visualizar notícias, buscar por palavras-chave, curtir notícias, abrir o conteúdo completo e criar comentários. Todo o sistema é construído apenas no front-end, com armazenamento local utilizando **LocalStorage**, e estilizado com CSS personalizado. Além disso, foram implementados testes automatizados com **Vitest**, que podem ser visualizados via **Vitest UI**.
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
