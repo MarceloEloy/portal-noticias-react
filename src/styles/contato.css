@@ -1,0 +1,44 @@
+.contato-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.contato-box {
+  background: white;
+  padding: 30px;
+  width: 400px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.contato-box h2 {
+  margin-bottom: 20px;
+}
+
+.contato-box p {
+  font-size: 16px;
+  margin: 8px 0;
+}
+
+.contato-redes {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contato-redes button {
+  background: #203a43;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.contato-redes button:hover {
+  background: #2c5364;
+}
